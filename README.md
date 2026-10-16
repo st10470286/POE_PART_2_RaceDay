@@ -16,3 +16,9 @@ Part 2 PoE Project - .NET 8.0 & SQL Server
 - .NET 8.0 SDK
 - SQL Server Express / LocalDB
 - Visual Studio 2022
+
+## Testing with Swagger
+1. Launch the application (F5).
+2. Navigate to `https://localhost:<port>/swagger`.
+3. Execute `POST /api/auth/register` to create a user account.
+4. Execute `POST /api/auth/login` to establish session authorization.
