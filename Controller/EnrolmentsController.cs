@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+// EnrolmentsController handles enrollment
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using RaceDay.API.Data;
 using RaceDay.API.Models;
