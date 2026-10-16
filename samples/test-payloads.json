@@ -1,0 +1,13 @@
+{
+  "registerSample": {
+    "roleId": 2,
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "password": "Password123!"
+  },
+  "loginSample": {
+    "email": "john.doe@example.com",
+    "password": "Password123!"
+  }
+}
