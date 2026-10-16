@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+// AuthController handles registration, login, and session state
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using RaceDay.API.Data;
 using RaceDay.API.DTOs;
