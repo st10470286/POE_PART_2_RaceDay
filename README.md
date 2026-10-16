@@ -11,3 +11,8 @@ Part 2 PoE Project - .NET 8.0 & SQL Server
 - GET /api/events
 - POST /api/events
 - POST /api/enrolments
+
+## Prerequisites
+- .NET 8.0 SDK
+- SQL Server Express / LocalDB
+- Visual Studio 2022
